@@ -1,5 +1,5 @@
 
-// CSS FEITO POR GUILHERME DOS SANTOS
+/* // CSS FEITO POR GUILHERME DOS SANTOS */
 
 @charset "UTF-8";
 
@@ -40,7 +40,7 @@ ul#album-fotos li:hover span {
 	opacity: 1;
 }
 ul#album-fotos li#foto01 {
-	background: url('../_imagens/Fedora_21_on_OSX.png') no-repeat;
+	background: url('../_Imagens/Fedora_21_on_OSX.png') no-repeat;
 	background-position: 50% 50%;
 	background-size: 400px 400px;
 	background-color: #ffffff
@@ -52,7 +52,7 @@ ul#album-fotos li#foto01:hover {
 }
 
 ul#album-fotos li#foto02 {
-	background: url('../_imagens/Mint17.1_on_Ubuntu_14.04.png') no-repeat;
+	background: url('../_Imagens/Mint17.1_on_Ubuntu_14.04.png') no-repeat;
 	background-position: 50% 50%;
 	background-size: 400px 400px;
 	background-color: #ffffff
@@ -64,7 +64,7 @@ ul#album-fotos li#foto02:hover {
 }
 
 ul#album-fotos li#foto03 {
-	background: url('../_imagens/OpenSuse13.2_on_Windows_7.png') no-repeat;
+	background: url('../_Imagens/OpenSuse13.2_on_Windows_7.png') no-repeat;
 	background-position: 50% 50%;
 	background-size: 400px 400px;
 	background-color: #ffffff
@@ -76,7 +76,7 @@ ul#album-fotos li#foto03:hover {
 }
 
 ul#album-fotos li#foto04 {
-	background: url('../_imagens/Ubuntu_14.04_on_Windows_7.png') no-repeat;
+	background: url('../_Imagens/Ubuntu_14.04_on_Windows_7.png') no-repeat;
 	background-position: 50% 50%;
 	background-size: 400px 400px;
 	background-color: #ffffff
@@ -88,7 +88,7 @@ ul#album-fotos li#foto04:hover {
 }
 
 ul#album-fotos li#foto05 {
-	background: url('../_imagens/Windows_7_on_Ubuntu_14.04.png') no-repeat;
+	background: url('../_Imagens/Windows_7_on_Ubuntu_14.04.png') no-repeat;
 	background-position: 50% 50%;
 	background-size: 400px 400px;
 	background-color: #ffffff
@@ -100,7 +100,7 @@ ul#album-fotos li#foto05:hover {
 }
 
 ul#album-fotos li#foto06 {
-	background: url('../_imagens/Windows_8.1_on_OSX.png') no-repeat;
+	background: url('../_Imagens/Windows_8.1_on_OSX.png') no-repeat;
 	background-position: 50% 50%;
 	background-size: 400px 400px;
 	background-color: #ffffff
@@ -112,7 +112,7 @@ ul#album-fotos li#foto06:hover {
 }
 
 ul#album-fotos li#foto07 {
-	background: url('../_imagens/win7.2.png') no-repeat;
+	background: url('../_Imagens/win7.2.png') no-repeat;
 	background-position: 50% 50%;
 	background-size: 400px 400px;
 	background-color: #ffffff
@@ -124,7 +124,7 @@ ul#album-fotos li#foto07:hover {
 }
 
 ul#album-fotos li#foto08 {
-	background: url('../_imagens/mac_os_x.2.png') no-repeat;
+	background: url('../_Imagens/mac_os_x.2.png') no-repeat;
 	background-position: 50% 50%;
 	background-size: 400px 400px;
 	background-color: #ffffff
@@ -136,7 +136,7 @@ ul#album-fotos li#foto08:hover {
 }
 
 ul#album-fotos li#foto09 {
-	background: url('../_imagens/gnome.png') no-repeat;
+	background: url('../_Imagens/gnome.png') no-repeat;
 	background-position: 50% 50%;
 	background-size: 400px 400px;
 	background-color: #ffffff
