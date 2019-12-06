@@ -1,0 +1,71 @@
+/*CSS PARA DEFINIR ALGUNS ESTILOS DO SITE*/
+
+
+#virtual {
+
+   color: #a69bfa ;                                     
+
+
+}
+   
+.vAntiga {
+	
+   font-size: 120%;
+   
+   
+   
+}
+   
+   /*ESTILO DA PARTE DE LOGIN*/
+    
+#entrar{
+	
+	
+ border-color: #2207f5;
+ color: #ffffff;
+ 
+}
+
+#cadastrar {
+	 border-color: #2207f5;
+     color: #ffffff;
+}
+
+
+/*ESTILO DAS IMAGENS PRESENTE NO SITE*/
+
+#imgwin{
+	
+	width: 100%;
+	
+}
+
+#imgUbun{
+	
+	width: 100%;
+	height: 225px;
+	
+	
+}
+
+#oracle {
+	
+    float: left;
+	width: 10%;
+	margin-bottom: 2%;
+	
+}
+
+#mais {
+	margin-top: 15%;
+	margin-bottom: -20%;
+	width: 6%;
+	text-align: center;
+	
+	
+}
+
+.seta {
+	float:right;
+	width: 2%;
+}
